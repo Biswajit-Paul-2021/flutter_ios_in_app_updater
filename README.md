@@ -6,7 +6,7 @@ A new Flutter plugin project.
 
 Add this to Info.plist file.
 
-```plist
+```xml
 <key>SKStoreReviewController</key>
 <string>We'd like to open the App Store to check for updates.</string>
 
